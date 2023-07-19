@@ -1,4 +1,4 @@
-- 👋 Hello there\
+- 👋 Hello there
 - 🌱 I currently learning Java and Python 👨‍🎓
 - 👨‍💻 Interested in programming and new age technologies👨‍💻
 - 🤔 I'am looking for guidance in becoming fullstack javaDEV
